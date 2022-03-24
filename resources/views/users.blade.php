@@ -1,5 +1,9 @@
 @include('componegit nts.layout.__header')
 
+<div>
+    <a href="/"> home </a>
+</div>
+
 <style>
     tr:nth-child(even) {
         background-color: #dddddd;
