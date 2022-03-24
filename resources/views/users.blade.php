@@ -1,4 +1,4 @@
-@include('components.layout.__header')
+@include('componegit nts.layout.__header')
 
 <style>
     tr:nth-child(even) {

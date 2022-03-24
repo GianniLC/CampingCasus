@@ -8,4 +8,3 @@
     <a href="/users">Show users</a>
 
 </body>
-</html>
