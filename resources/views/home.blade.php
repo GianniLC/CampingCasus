@@ -6,6 +6,7 @@
     <p>Hallo</p>
 
     <a href="/users">Show users</a>
+    <a href="/register">register</a>
 
 </body>
 </html>
