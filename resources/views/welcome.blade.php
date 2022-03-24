@@ -7,7 +7,7 @@
         <div class="bg-blue-200 col-span-1">
             <div> 
                 <ul class="bg-red-500 pl-5 pt-2 text-lg underline">
-                    <li><x-form.label>home </x-form.label></li>
+                    <li><x-form.link>home </x-form.link></li>
                     <li><a href="/users"> users </a></li>
                 </ul>
 

@@ -7,3 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Camping Casus</title>
 </head>
+
+<div class="bg-green-600 grid grid-cols-6 h-20">
+    <p class= "col-span-2 pl-24">PLACEHOLDER</p>
+
+</div>
