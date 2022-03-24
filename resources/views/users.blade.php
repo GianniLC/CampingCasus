@@ -1,8 +1,5 @@
-{{--@foreach($user as $users)--}}
-{{--    <p>{{$users->firstname}}</p>--}}
-{{--    <p>{{$users->lastname}}</p>--}}
-{{--    <p>{{$users->email}}</p>--}}
-{{--@endforeach--}}
+@include('components.layout.__header')
+
 <style>
     tr:nth-child(even) {
         background-color: #dddddd;
