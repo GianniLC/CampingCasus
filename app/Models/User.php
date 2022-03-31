@@ -25,7 +25,8 @@ class User extends Authenticatable
         'address',
         'addressnumber',
         'zipcode',
-        'phonenumber'
+        'phonenumber',
+        'checkedin'
     ];
 
     /**
