@@ -7,13 +7,8 @@
         <x-slot name="admin">
             <div>
                 <ul class="bg-red-500 pl-5 pt-2 text-lg underline">
-<<<<<<< HEAD
-                    <li><x-form.link>home </x-form.link></li>
-                    <li><a href="/users"> users </a></li>
-=======
                     <li><x-form.link>Home</x-form.link></li>
                     <li><x-form.link>Users</x-form.link></li>
->>>>>>> d241a6f6d032ea6f959d690f135bec6b66d7416a
                 </ul>
 
             </div>

@@ -3,6 +3,7 @@
 use App\Http\Controllers\MainController;
 use App\Http\Controllers\RegisterController;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,6 +17,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 route::get('/', [MainController::class, 'Show']);
+
+route::get('/home', [HomeController::class, 'Show']);
 
 Route::get('/register', [RegisterController::class, 'Show']);
 Route::post('register', [RegisterController::class, 'Store']);
